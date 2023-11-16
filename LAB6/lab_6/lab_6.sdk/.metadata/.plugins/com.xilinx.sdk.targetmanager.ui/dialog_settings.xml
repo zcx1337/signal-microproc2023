@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="Auto Detect" key="tutorial_bd_wrapper_hw_platform_0-device"/>
+	<item value="" key="tutorial_bd_wrapper_hw_platform_0-bmmFile"/>
+	<item value="tutorial_bd_wrapper_hw_platform_0" key="programfpga.hwplatform"/>
+	<item value="Local" key="tutorial_bd_wrapper_hw_platform_0-target"/>
+	<item value="true" key="tutorial_bd_wrapper_hw_platform_0-partial_bit"/>
+	<item value="C:\Users\grcomerce\Desktop\LAB6\lab_6\lab_6.sdk\tutorial_bd_wrapper_hw_platform_1\tutorial_bd_wrapper.bit" key="tutorial_bd_wrapper_hw_platform_0-bitFile"/>
+</section>

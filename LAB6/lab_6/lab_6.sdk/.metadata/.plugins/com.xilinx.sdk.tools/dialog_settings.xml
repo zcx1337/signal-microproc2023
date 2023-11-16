@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="Auto Detect" key="tutorial_bd_wrapper_hw_platform_0-device"/>
+	<item value="tutorial_bd_wrapper_hw_platform_0" key="programflash.hwplatform"/>
+	<item value="C:\Users\grcomerce\Desktop\LAB6\BOOT.bin" key="tutorial_bd_wrapper_hw_platform_0-imgFile"/>
+	<item value="" key="tutorial_bd_wrapper_hw_platform_0-offSet"/>
+	<item value="" key="tutorial_bd_wrapper_hw_platform_0-fsblFile"/>
+	<item value="Local" key="tutorial_bd_wrapper_hw_platform_0-target"/>
+	<item value="qspi_single" key="tutorial_bd_wrapper_hw_platform_0-flashType"/>
+	<item value="false" key="tutorial_bd_wrapper_hw_platform_0-blankCheck"/>
+	<item value="false" key="tutorial_bd_wrapper_hw_platform_0-verifyFlash"/>
+</section>

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# 
+# Start of session at: Fri Oct 14 14:55:10 2022
+# Process ID: 7588
+# Current directory: E:/lab2/lab2.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: E:/lab2/lab2.sdk/webtalk/webtalk.log
+# Journal file: E:/lab2/lab2.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

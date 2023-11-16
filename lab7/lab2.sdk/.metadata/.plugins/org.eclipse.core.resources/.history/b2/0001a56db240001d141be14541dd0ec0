@@ -1,0 +1,15 @@
+module new(
+ input clk,
+ input rst,
+ output [7:0] led
+ );
+ reg [25:0]count;
+ wire rst_but =~ rst;
+ always @(posedge clk or posedge rst_but) begin
+ if (rst_but)
+ count <= 1’b0;
+ else
+ count <= count + 1'b1;
+ end
+ assign led[7:0] = count[25:19];
+endmodule

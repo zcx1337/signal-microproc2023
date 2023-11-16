@@ -1,0 +1,6 @@
+10:33:05 **** Build of configuration Debug for project linux_blinled_app ****
+make all 
+make: Цель `all' не требует выполнения команд.
+
+10:33:06 Build Finished (took 1s.510ms)
+

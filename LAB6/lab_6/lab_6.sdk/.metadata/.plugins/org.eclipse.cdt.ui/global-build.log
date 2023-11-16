@@ -1,0 +1,73 @@
+
+**** Build of configuration Debug for project linux_blinled_app ****
+
+Nothing to build for project linux_blinled_app
+16:42:31 **** Auto Build of configuration Debug for project linux_blinled_app ****
+make all 
+'Building file: ../src/linux_blinkled_app.c'
+'Invoking: ARM v7 Linux gcc compiler'
+arm-linux-gnueabihf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/linux_blinkled_app.o" -MMD -MP -MF"src/linux_blinkled_app.d" -MT"src/linux_blinkled_app.o" -o "src/linux_blinkled_app.o" "../src/linux_blinkled_app.c"
+'Finished building: ../src/linux_blinkled_app.c'
+' '
+'Building target: linux_blinled_app.elf'
+'Invoking: ARM v7 Linux gcc linker'
+arm-linux-gnueabihf-gcc  -o "linux_blinled_app.elf"  ./src/linux_blinkled_app.o   
+'Finished building target: linux_blinled_app.elf'
+' '
+'Invoking: ARM v7 Linux Print Size'
+arm-linux-gnueabihf-size linux_blinled_app.elf  |tee "linux_blinled_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+   2027	    304	      4	   2335	    91f	linux_blinled_app.elf
+'Finished building: linux_blinled_app.elf.size'
+' '
+12:20:10 **** Build of configuration Debug for project linux_blinled_app ****
+make all 
+make: Цель `all' не требует выполнения команд.
+12:22:20 **** Incremental Build of configuration Debug for project linux_blinled_app ****
+make all 
+make: Цель `all' не требует выполнения команд.
+12:22:50 **** Incremental Build of configuration Debug for project linux_blinled_app ****
+make all 
+make: Цель `all' не требует выполнения команд.
+12:23:03 **** Incremental Build of configuration Debug for project linux_blinled_app ****
+make all 
+make: Цель `all' не требует выполнения команд.
+12:23:43 **** Incremental Build of configuration Debug for project linux_blinled_app ****
+make all 
+make: Цель `all' не требует выполнения команд.
+12:26:21 **** Incremental Build of configuration Debug for project linux_blinled_app ****
+make all 
+make: Цель `all' не требует выполнения команд.
+12:27:27 **** Incremental Build of configuration Debug for project linux_blinled_app ****
+make all 
+make: Цель `all' не требует выполнения команд.
+12:27:30 **** Incremental Build of configuration Debug for project linux_blinled_app ****
+make all 
+make: Цель `all' не требует выполнения команд.
+13:05:57 **** Build of configuration Debug for project linux_blinled_app ****
+make all 
+make: Цель `all' не требует выполнения команд.
+15:54:40 **** Auto Build of configuration Debug for project linux_blinled_app ****
+make all 
+'Building file: ../src/linux_blinkled_app.c'
+'Invoking: ARM v7 Linux gcc compiler'
+arm-linux-gnueabihf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/linux_blinkled_app.o" -MMD -MP -MF"src/linux_blinkled_app.d" -MT"src/linux_blinkled_app.o" -o "src/linux_blinkled_app.o" "../src/linux_blinkled_app.c"
+'Finished building: ../src/linux_blinkled_app.c'
+' '
+'Building target: linux_blinled_app.elf'
+'Invoking: ARM v7 Linux gcc linker'
+arm-linux-gnueabihf-gcc  -o "linux_blinled_app.elf"  ./src/linux_blinkled_app.o   
+'Finished building target: linux_blinled_app.elf'
+' '
+'Invoking: ARM v7 Linux Print Size'
+arm-linux-gnueabihf-size linux_blinled_app.elf  |tee "linux_blinled_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+   2027	    304	      4	   2335	    91f	linux_blinled_app.elf
+'Finished building: linux_blinled_app.elf.size'
+' '
+10:33:06 **** Build of configuration Debug for project linux_blinled_app ****
+make all 
+make: Цель `all' не требует выполнения команд.
+10:33:05 **** Build of configuration Debug for project linux_blinled_app ****
+make all 
+make: Цель `all' не требует выполнения команд.

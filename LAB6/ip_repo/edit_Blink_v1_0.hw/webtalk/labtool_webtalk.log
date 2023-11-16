@@ -1,0 +1,9 @@
+
+****** Webtalk v2016.3 (64-bit)
+  **** SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+  **** IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+    ** Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
+
+source c:/users/grcomerce/desktop/lab6/ip_repo/edit_Blink_v1_0.hw/webtalk/labtool_webtalk.tcl -notrace
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:40 . Memory (MB): peak = 50.703 ; gain = 0.160
+INFO: [Common 17-206] Exiting Webtalk at Fri Oct 26 16:21:10 2018...

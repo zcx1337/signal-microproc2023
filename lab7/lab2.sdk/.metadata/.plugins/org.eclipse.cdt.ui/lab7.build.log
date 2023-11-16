@@ -1,0 +1,8 @@
+10:49:15 **** Incremental Build of configuration Debug for project lab7 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Цель `main-build' не требует выполнения команд.
+
+10:49:15 Build Finished (took 200ms)
+

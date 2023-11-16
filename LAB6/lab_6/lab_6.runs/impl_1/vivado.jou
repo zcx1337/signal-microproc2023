@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Mon Nov 21 15:13:08 2022
+# Process ID: 6284
+# Current directory: C:/Users/grcomerce/Desktop/LAB6/lab_6/lab_6.runs/impl_1
+# Command line: vivado.exe -log tutorial_bd_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source tutorial_bd_wrapper.tcl -notrace
+# Log file: C:/Users/grcomerce/Desktop/LAB6/lab_6/lab_6.runs/impl_1/tutorial_bd_wrapper.vdi
+# Journal file: C:/Users/grcomerce/Desktop/LAB6/lab_6/lab_6.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source tutorial_bd_wrapper.tcl -notrace
